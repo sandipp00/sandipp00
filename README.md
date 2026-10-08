@@ -1,12 +1,12 @@
-👋 Hi, I'm Sandip Pradhan
+# 👋 Hi, I'm Sandip Pradhan
 
-📊 Data Analyst | 🤖 Data Science & AI | 🧠 Machine Learning
+### 📊 Data Analyst | 🤖 Data Science & AI | 🧠 Machine Learning
 
-I’m a Data Analytics and AI enthusiast focused on turning data into actionable insights and building practical, production-oriented AI/ML solutions.
+I’m a Data Analytics and AI enthusiast focused on turning data into actionable insights and building practical AI/ML solutions.
 
-- 🔭 Currently building Data Analytics, Machine Learning & Generative AI projects
+- 🔭 Building Data Analytics, Machine Learning & Generative AI projects
 - 🌱 Exploring LLMs, RAG, LangChain, LangGraph & Agentic AI
-- 💡 Interested in Data Analytics, Machine Learning, AI Engineering & Business Intelligence
+- 💡 Interested in Data Analytics, Machine Learning & AI Engineering
 - 🛠️ I enjoy building projects from data → analysis → model → dashboard → deployment
 - 📍 Bengaluru, India
 
@@ -28,11 +28,12 @@ I’m a Data Analytics and AI enthusiast focused on turning data into actionable
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge)
 ![LangGraph](https://img.shields.io/badge/LangGraph-000000?style=for-the-badge)
 
-### 📊 Analytics
+### 📊 Analytics & Visualization
 
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
 
 ### 🛠️ Tools
 
@@ -44,116 +45,82 @@ I’m a Data Analytics and AI enthusiast focused on turning data into actionable
 
 ---
 
-🚀 Featured Projects
+## 🚀 Featured Projects
 
-🎬 Netflix Content Analytics
+### 🎬 Netflix Content Analytics
+Python • Pandas • Plotly • Streamlit • Pytest
 
-Python • Pandas • Plotly • Streamlit • Pytest • GitHub Actions
+End-to-end Netflix content analysis with an interactive dashboard, reusable analysis layer, testing and CI.
 
-Exploratory analysis and an interactive dashboard for Netflix's content catalog, with reusable analysis functions, automated testing and CI.
+[View Project](https://github.com/sandipp00/netflix-content-analytics)
 
-🔗 "View Project" (https://github.com/sandipp00/netflix-content-analytics)
+### 🏦 Banking Credit Risk Analytics
+Python • SQL • Power BI
 
----
+Analytics project focused on credit risk patterns, customer analysis and business intelligence.
 
-🏦 Banking Credit Risk Analytics
+[View Project](https://github.com/sandipp00/banking-credit-risk-analytics)
 
-Python • SQL • PostgreSQL • Power BI
+### 💳 Credit Card Fraud Detection
+Python • Machine Learning
 
-End-to-end credit risk analytics project focused on analyzing banking data, identifying risk patterns and presenting insights through BI.
+Machine learning project for detecting fraudulent transactions and evaluating classification performance.
 
-🔗 "View Project" (https://github.com/sandipp00/banking-credit-risk-analytics)
+[View Project](https://github.com/sandipp00/credit-card-fraud-detection)
 
----
+### 🤖 AI Document Intelligence
+Python • RAG • LLM • AI
 
-💳 Credit Card Fraud Detection
+AI-powered document intelligence platform using retrieval-augmented generation.
 
-Python • Machine Learning • Data Analysis
+[View Project](https://github.com/sandipp00/ai-document-intelligence)
 
-Machine learning project focused on identifying fraudulent transactions and evaluating classification performance.
-
-🔗 "View Project" (https://github.com/sandipp00/credit-card-fraud-detection)
-
----
-
-🤖 AI Document Intelligence
-
-RAG • LLM • Hybrid Retrieval • Python
-
-Production-oriented AI document intelligence platform designed to extract information from documents and answer questions using retrieval-augmented generation.
-
-🔗 "View Project" (https://github.com/sandipp00/ai-document-intelligence)
-
----
-
-🏋️ Fitness AI Platform
-
+### 🏋️ Fitness AI Platform
 Python • FastAPI • Flutter • AI
 
-AI-powered fitness platform combining a backend API with a mobile application for personalized fitness experiences.
+AI-powered fitness platform combining an API backend with a mobile application.
 
-🔗 "View Project" (https://github.com/sandipp00/fitness-ai-platform)
+[View Project](https://github.com/sandipp00/fitness-ai-platform)
 
----
-
-🛒 Walmart Retail Sales Analytics
-
+### 🛒 Walmart Retail Sales Analytics
 Python • Data Analytics • Streamlit
 
-Retail analytics project focused on extracting business insights from Walmart sales data and presenting them through an interactive dashboard.
+Interactive retail analytics dashboard focused on extracting business insights from sales data.
 
-🔗 "View Project" (https://github.com/sandipp00/Walmart-Retail-Sales-Analytics)
-
----
-
-🧠 Currently Learning
-
-- 🤖 Generative AI & LLM Applications
-- 🔗 LangChain & LangGraph
-- 🧩 Agentic AI
-- 📚 Retrieval-Augmented Generation (RAG)
-- ⚙️ MLOps & Model Deployment
-- ☁️ Cloud & AI Deployment
-- 🐳 Docker & Production AI Systems
+[View Project](https://github.com/sandipp00/Walmart-Retail-Sales-Analytics)
 
 ---
 
-📈 What I Build
+## 🧠 Currently Learning
 
-Raw Data
-   ↓
-Data Cleaning
-   ↓
-EDA & Statistical Analysis
-   ↓
-Machine Learning
-   ↓
-Business Insights
-   ↓
-Dashboard / AI Application
-   ↓
-Deployment
+- Generative AI & LLM Applications
+- LangChain & LangGraph
+- Agentic AI
+- Retrieval-Augmented Generation
+- MLOps
+- Docker
+- Cloud & AI Deployment
 
 ---
 
-📊 GitHub Stats
+## 📊 GitHub Stats
 
-"Sandip's GitHub Stats" (https://github-readme-stats.vercel.app/api?username=sandipp00&show_icons=true&theme=tokyonight&hide_border=true)
+![Sandip's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sandipp00&show_icons=true&theme=tokyonight&hide_border=true)
 
-"Top Languages" (https://github-readme-stats.vercel.app/api/top-langs/?username=sandipp00&layout=compact&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sandipp00&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
 
-📫 Connect With Me
+## 📫 Connect With Me
 
-""LinkedIn" (https://img.shields.io/badge/LinkedIn-Sandip%20Pradhan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)" (https://www.linkedin.com/in/sandippradhan0/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sandip%20Pradhan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sandippradhan0/)
 
-""LeetCode" (https://img.shields.io/badge/LeetCode-Sandip%20Pradhan-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)" (https://leetcode.com/u/sandippradhan870/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Sandip%20Pradhan-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/sandippradhan870/)
 
-""GitHub" (https://img.shields.io/badge/GitHub-sandipp00-181717?style=for-the-badge&logo=github&logoColor=white)" (https://github.com/sandipp00)
+[![GitHub](https://img.shields.io/badge/GitHub-sandipp00-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sandipp00)
 
 ---
 
 ⭐ Thanks for visiting my profile!
 
-Let's build something impactful with data and AI. 🚀
+**Let's build something impactful with data and AI. 🚀**
