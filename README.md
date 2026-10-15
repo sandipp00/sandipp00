@@ -1,126 +1,106 @@
-# 👋 Hi, I'm Sandip Pradhan
+# Hi, I'm Sandip Pradhan 👋
 
-### 📊 Data Analyst | 🤖 Data Science & AI | 🧠 Machine Learning
+### Aspiring AI/ML Engineer | Machine Learning | Generative AI | Python
 
-I’m a Data Analytics and AI enthusiast focused on turning data into actionable insights and building practical AI/ML solutions.
+I'm focused on building practical machine learning systems, LLM-powered applications, and data-driven solutions.
 
-- 🔭 Building Data Analytics, Machine Learning & Generative AI projects
-- 🌱 Exploring LLMs, RAG, LangChain, LangGraph & Agentic AI
-- 💡 Interested in Data Analytics, Machine Learning & AI Engineering
-- 🛠️ I enjoy building projects from data → analysis → model → dashboard → deployment
+- 🔭 Building end-to-end AI/ML projects and intelligent applications
+- 🤖 Exploring RAG, LLMs, semantic search, and recommendation systems
+- 🧪 Interested in model evaluation, API development, testing, and deployment
 - 📍 Bengaluru, India
 
----
+## 🛠️ Technical Skills
 
-## 🧰 Tech Stack
+**Programming & Data:** Python, SQL, Pandas, NumPy
 
-### 💻 Programming & Data
+**Machine Learning:** Scikit-learn, classification, feature engineering, model evaluation, recommendation systems
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+**Generative AI:** LLM applications, RAG, embeddings, semantic retrieval, LangChain, LangGraph
 
-### 🤖 AI & Machine Learning
+**Backend & Data Storage:** FastAPI, REST APIs, SQLite, Qdrant
 
-![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge)
-![LangGraph](https://img.shields.io/badge/LangGraph-000000?style=for-the-badge)
+**Analytics & Visualization:** Power BI, Tableau, Excel, Plotly, Streamlit
 
-### 📊 Analytics & Visualization
-
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
-![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
-
-### 🛠️ Tools
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-
----
+**Tools & Engineering:** Git, GitHub Actions, pytest, Docker, Jupyter Notebook
 
 ## 🚀 Featured Projects
 
-### 🎬 Netflix Content Analytics
-Python • Pandas • Plotly • Streamlit • Pytest
+### 1. AI Document Intelligence
+**Python · FastAPI · RAG · OpenAI API · Qdrant · Streamlit · Docker**
 
-End-to-end Netflix content analysis with an interactive dashboard, reusable analysis layer, testing and CI.
+A document question-answering system that retrieves relevant document passages and generates evidence-grounded answers with source citations.
 
-[View Project](https://github.com/sandipp00/netflix-content-analytics)
+- Supports PDF, DOCX, TXT, and Markdown ingestion
+- Implements document chunking, embeddings, and vector retrieval
+- Provides source-aware answers and insufficient-evidence handling
+- Includes automated tests and GitHub Actions CI
 
-### 🏦 Banking Credit Risk Analytics
-Python • SQL • Power BI
+[View Repository](https://github.com/sandipp00/ai-document-intelligence)
 
-Analytics project focused on credit risk patterns, customer analysis and business intelligence.
+### 2. AI-Powered Recommendation System
+**Python · Scikit-learn · Sentence Transformers · FastAPI · Hugging Face**
 
-[View Project](https://github.com/sandipp00/banking-credit-risk-analytics)
+A personalized movie recommendation system combining lexical retrieval, semantic similarity, hybrid ranking, and LLM-generated explanations.
 
-### 💳 Credit Card Fraud Detection
-Python • Machine Learning
+- Combines TF-IDF and semantic embedding signals
+- Uses configurable hybrid ranking
+- Grounds generated explanations in retrieved movie candidates
+- Includes automated tests and CI
 
-Machine learning project for detecting fraudulent transactions and evaluating classification performance.
+[View Repository](https://github.com/sandipp00/ai-recommendation-system)
 
-[View Project](https://github.com/sandipp00/credit-card-fraud-detection)
+### 3. Credit Card Fraud Detection
+**Python · Scikit-learn · FastAPI · pytest**
 
-### 🤖 AI Document Intelligence
-Python • RAG • LLM • AI
+A machine learning pipeline for identifying potentially fraudulent transactions in an imbalanced dataset.
 
-AI-powered document intelligence platform using retrieval-augmented generation.
+- Compares Logistic Regression and Random Forest
+- Evaluates models using PR-AUC, ROC-AUC, and classification metrics
+- Selects the candidate model based on PR-AUC
+- Exposes predictions through a FastAPI endpoint
 
-[View Project](https://github.com/sandipp00/ai-document-intelligence)
+[View Repository](https://github.com/sandipp00/credit-card-fraud-detection)
 
-### 🏋️ Fitness AI Platform
-Python • FastAPI • Flutter • AI
+### 4. FinPulse — Financial Analytics Platform
+**Python · Pandas · NumPy · FastAPI · React · SQLite · Recharts**
 
-AI-powered fitness platform combining an API backend with a mobile application.
+A financial analytics application for exploring stock and cryptocurrency market data and evaluating historical performance and risk.
 
-[View Project](https://github.com/sandipp00/fitness-ai-platform)
+- Ingests historical data for equities, Bitcoin, Ethereum, and NIFTY 50
+- Calculates returns, cumulative growth, annualized volatility, Sharpe ratio, and maximum drawdown
+- Combines a Python analytics layer with a FastAPI backend and React interface
+- Includes automated tests
 
-### 🛒 Walmart Retail Sales Analytics
-Python • Data Analytics • Streamlit
+[View Repository](https://github.com/sandipp00/FinPulse)
 
-Interactive retail analytics dashboard focused on extracting business insights from sales data.
+### 5. Fitness AI Platform
+**Python · FastAPI · Flutter · AI**
 
-[View Project](https://github.com/sandipp00/Walmart-Retail-Sales-Analytics)
+A mobile-first fitness platform combining health-data synchronization, activity analytics, workout planning, and AI-assisted coaching.
 
----
+[View Repository](https://github.com/sandipp00/fitness-ai-platform)
 
-## 🧠 Currently Learning
+## 📚 Currently Learning
 
-- Generative AI & LLM Applications
-- LangChain & LangGraph
-- Agentic AI
-- Retrieval-Augmented Generation
-- MLOps
-- Docker
-- Cloud & AI Deployment
+- Advanced machine learning and model evaluation
+- RAG evaluation and retrieval optimization
+- Agentic AI and multi-step workflows
+- MLOps, Docker, and deployment practices
 
----
+## 📊 GitHub Activity
 
-## 📊 GitHub Stats
-
-![Sandip's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sandipp00&show_icons=true&theme=tokyonight&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sandipp00&show_icons=true&theme=tokyonight&hide_border=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sandipp00&layout=compact&theme=tokyonight&hide_border=true)
 
----
+## 🤝 Connect With Me
 
-## 📫 Connect With Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sandippradhan0/)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sandip%20Pradhan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sandippradhan0/)
-
-[![LeetCode](https://img.shields.io/badge/LeetCode-Sandip%20Pradhan-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/sandippradhan870/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/sandippradhan870/)
 
 [![GitHub](https://img.shields.io/badge/GitHub-sandipp00-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sandipp00)
 
 ---
 
-⭐ Thanks for visiting my profile!
-
-**Let's build something impactful with data and AI. 🚀**
+*Building practical AI solutions through data, machine learning, and software engineering.* 🚀
